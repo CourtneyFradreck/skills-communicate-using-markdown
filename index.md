@@ -7,3 +7,9 @@
 
 ``` javascript
 let greeting = "Hello, Friend!"
+
+```
+- [x] Check List One (Checked)
+- [ ] Check List Two
+- [ ] Check List Three 
+- [ ] Check List Four
