@@ -2,4 +2,8 @@
 
 #### I think I'm gonna like it here
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://www.courtney.codes/assets/images/Profile.jpg)
+
+
+``` javascript
+let greeting = "Hello, Friend!"
